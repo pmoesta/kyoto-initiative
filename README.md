@@ -147,6 +147,10 @@ This also ensures that all groups are given the same space.
 * **Spokeperson:** Tim Dietrich <tim.dietrich@uni-potsdam.de>
 * **URL:** https://journals.aps.org/prd/abstract/10.1103/PhysRevD.84.044012
 
+### GRaM-X
+
+* **Spokeperson:** Philipp Mösta <p.moesta@uva.nl>
+* **URL:** https://doi.org/10.1088/1361-6382/acf2d9
 
 ### FIL
 
